@@ -20,7 +20,7 @@ ClientAliveCountMax 3
 <pre>
 sudo chmod 777 host rports.list log.txt
 sudo chmod u+x start.sh stop.sh update.sh
-<pre>
+</pre>
 
 В файле host прописываем адрес вашего сервера.
 
